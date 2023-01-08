@@ -11,11 +11,12 @@ shuttle = missions['Shuttle']
 year = missions['Year']
 
 seaborn.set()
-plt.scatter(shuttle, year, label=None, cmap='virids')
+plt.scatter(shuttle, year, label=None, c='red', cmap='virids')
 plt.xlabel('Shittle Name')
 plt.ylabel('Year')
-plt.clim(3, 7)
+plt.clim(0, 7)
 
-for shuttle in [1, 2, 3]:
-    plt.scatter([], [], c='k')
+# for shuttle in [1, 2, 3]:
+#     plt.scatter([], [], c='red')
 plt.show()
+
