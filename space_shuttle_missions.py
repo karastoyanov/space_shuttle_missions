@@ -9,9 +9,10 @@ print(missions.head())
 
 shuttle = missions['Shuttle']
 year = missions['Year']
+colors = np.array([x for x in range(0, 100, 11)])
 
 seaborn.set()
-plt.scatter(shuttle, year, label=None, c='red', cmap='virids')
+plt.scatter(shuttle, year, c='red', cmap='viridis')
 plt.xlabel('Shittle Name')
 plt.ylabel('Year')
 plt.clim(0, 7)
