@@ -12,7 +12,7 @@ year = missions['Year']
 colors = ['green', 'yellow', 'blue', 'red']
 
 seaborn.set()
-plt.scatter(shuttle, year, cmap='viridis')
+plt.scatter(shuttle, year, cmap='viridis', alpha=0.5)
 plt.xlabel('Shittle Name')
 plt.ylabel('Year')
 plt.clim(0, 7)
