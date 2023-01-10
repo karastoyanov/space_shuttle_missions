@@ -11,5 +11,6 @@
     font-size: 32px;
     text-align: center;
     font-family: 'Ubuntu', 'sans-serif';
-    color: white;
+    color: black;
+    font: 'Ubuntu', 'sans-serif';
 }
