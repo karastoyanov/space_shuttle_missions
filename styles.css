@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Roboto:wght@400;500;700&family=Ubuntu:wght@300&display=swap');
+
+
 .output_png {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+}
+
+.title {
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Ubuntu', 'sans-serif';
+    color: white;
 }
