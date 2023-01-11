@@ -41,3 +41,11 @@
     color: black;
     background-color: white;
 }
+
+.sec_text {
+    font-family: 'Ubuntu', 'sans-serif';
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    font-style: italic;
+}
