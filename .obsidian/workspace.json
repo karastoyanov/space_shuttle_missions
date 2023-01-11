@@ -11,11 +11,9 @@
             "id": "29e75dff6bb2f1bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Space_Shuttle_Columbia_launching_cropped_2.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images/Space_Shuttle_Columbia_launching_cropped_2.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/Space_Shuttle_Columbia_launching_cropped_2.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "images/Space_Shuttle_Columbia_launching_cropped_2.jpg"
               }
             }
           }
@@ -136,6 +134,20 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "29e75dff6bb2f1bd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "images/1280px-OV-101_first_flight.jpg",
+    "LICENSE.md",
+    "README.md"
+  ]
 }
