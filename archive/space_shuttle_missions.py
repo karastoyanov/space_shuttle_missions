@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn
 
-missions = pd.read_csv(r"space_shuttle_missions.csv")
+missions = pd.read_csv(r"../space_shuttle_missions.csv")
 print(missions.head())
 
 shuttle = missions['Shuttle']
